@@ -1,0 +1,56 @@
+project:
+  type: book
+  #output-dir: docs
+
+book:
+  title: "Training Processes"
+  subtitle: "Lecture Notes"
+  author: 
+   - name: "Peter Raidl"
+   - id: "pr"
+   - orcid: 0000-0002-1850-734X
+   - email: peter.raidl@univie.ac.at
+  license: CC0 1.0 Universal
+  date: "20 March, 2026"
+  chapters:
+    - index.qmd
+    - 1-ChangesContribution.qmd
+    - 2-intro.qmd
+    #- 3-Trainingprocess.qmd
+    #- 4-Assessment
+    #- 5-Goals.qmd
+    #- 6-Testing.qmd
+    #- 7-Planning.qmd
+    #- 8-Monitoring.qmd
+    #- 9-Analysis.qmd
+    #- 10-Adjustments.qmd
+    #- 11-Communication.qmd
+    #- 12-Toolbox.qmd
+    #- 17-summary.qmd
+    #- Appendix1_Questions.qmd
+    #- Appendix2_Assignments.qmd
+
+    #- references.qmd
+  page-navigation: true
+bibliography: Teaching and Lectures.bib
+
+code-fold: true
+
+format:
+  html:
+    theme: cosmo
+    tbl-colwidths: [75,25]
+    code: false
+    warning: false
+  pdf:
+    documentclass: scrreprt
+  epub:
+    cover-image: images/Cover.png
+editor: visual
+
+website:
+  title: "Training Processes"
+  description: "Lecture Notes"
+#  repo-url: 
+
+  

@@ -1,0 +1,36 @@
+# Training Processes - Lecture Notes
+
+```{r, include = FALSE, message= FALSE}
+library(tidyr)
+library(dplyr)
+library(readxl)
+
+#current document version displayed
+ls_metadata = list(last_update = as.Date("2025-09-04"),
+                   current_version = "0.0.4")
+save(ls_metadata,
+        file = "metadata.rds")
+
+#set all tables to this form
+mykable <- function(df){
+  knitr::kable(df, digits = 2, align = "c", escape = F) %>%
+    kableExtra::kable_styling(font_size = 12)
+  }
+
+```
+
+*Version `r ls_metadata$current_version`*
+
+Bearbeitet am `r ls_metadata$last_update`
+
+![](images/cover.png "Cover"){#fig-cover width="400"}
+
+Der vorliegende Text ist eine Verschriftlichung der Lehrveranstaltung (LV) Trainingsprozesse. Es soll als Skriptum für Studierende dienen und wird als offen zugänglicher Text bereitgestellt. Die aktuelle Version sollte als Beta-Version betrachtet werden und ich hoffe auf weitere Überarbeitungen während und nach dem laufenden Semester. Ich freue mich über Anregungen, Beschwerden und Wünsche von Studierenden und interessierte Leser\*innen.
+
+Das Seminar **Trainingsprozesse** ist Teil des Bachelorstudiums Sport- und Bewegungswissenschaften (Curriculum [2017](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/29.03.2017_Curriculum_Sportwissenschaft.pdf)und [2024](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/2024_2025_146.pdf)) an der [Universität Wien](https://www.univie.ac.at/).
+
+Anmerkungen und konstruktive Kritik werden gerne via [E-Mail](peter.raidl@univie.ac.at) oder [Github](https://github.com/Paeddasan/PersonalCoaching_Script/discussions) angenommen.
+
+Herzlichen Dank!
+
+Peter Raidl [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1850-734X)
