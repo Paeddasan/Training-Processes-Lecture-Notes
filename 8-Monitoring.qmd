@@ -2,9 +2,9 @@
 
 In this chapter, we introduce training monitoring. I will describe what it is, then give an overview of goals and overall principles before diving into specific methods used to monitor training.
 
-Remember from Chapter 3 (once I write it down 😋) that monitoring is one of the two established strategies to handle the complexity of biological adaptations to training. Primarily, it is the observation of load and strain throughout training. The overarching goal is to adhere to the fundamental **training principles**[^8-monitoring-1], avoid unwanted adaptations, minimize injury risk, and predict peak performance. These are high and hard-to-reach goals. In particular, reducing the risk of injury and improving the prediction of performance peaks are somewhat like the holy grails in sports science. Even for highly technological expert teams, these are very difficult to achieve in the complex reality.
+Remember from @sec-trainingprocess (once I write it down 😋) that monitoring is one of the two established strategies to handle the complexity of biological adaptations to training. Primarily, it is the observation of load and strain throughout training. The overarching goal is to adhere to the fundamental **training principles**[^8-monitoring-1], avoid unwanted adaptations, minimize injury risk, and predict peak performance. These are high and hard-to-reach goals. In particular, reducing the risk of injury and improving the prediction of performance peaks are somewhat like the holy grails in sports science. Even for highly technological expert teams, these are very difficult to achieve in the complex reality.
 
-[^8-monitoring-1]: I use the training principles as "fundamental" practical guidelines that serve as heuristics during a training process. The training principles will be revised in Chapter 3 (once it is out) but can be found in nearly every textbook on training science e.g. [@ferrautiTrainingswissenschaftFuerSportpraxis2020, p 39].
+[^8-monitoring-1]: I use the training principles as "fundamental" practical guidelines that serve as heuristics during a training process. The training principles will be revised in @sec-trainingprocess (once it is out) but can be found in nearly every textbook on training science e.g. [@ferrautiTrainingswissenschaftFuerSportpraxis2020, p 39].
 
 ::: callout-note
 ## Student's instruction
