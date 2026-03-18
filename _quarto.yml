@@ -5,6 +5,7 @@ project:
 book:
   title: "Training Processes"
   subtitle: "Lecture Notes"
+  page-footer: "2026, Peter Raidl" 
   author: 
    - name: "Peter Raidl"
    - id: "pr"
@@ -16,12 +17,12 @@ book:
     - index.qmd
     - 1-ChangesContribution.qmd
     - 2-intro.qmd
-    #- 3-Trainingprocess.qmd
+    - 3-Trainingprocess.qmd
     #- 4-Assessment
     #- 5-Goals.qmd
     #- 6-Testing.qmd
     #- 7-Planning.qmd
-    #- 8-Monitoring.qmd
+    - 8-Monitoring.qmd
     #- 9-Analysis.qmd
     #- 10-Adjustments.qmd
     #- 11-Communication.qmd
@@ -32,6 +33,7 @@ book:
 
     #- references.qmd
   page-navigation: true
+
 bibliography: Teaching and Lectures.bib
 
 code-fold: true
@@ -45,12 +47,12 @@ format:
   pdf:
     documentclass: scrreprt
   epub:
-    cover-image: images/Cover.png
+    cover-image: images/cover.jpeg
 editor: visual
 
 website:
   title: "Training Processes"
   description: "Lecture Notes"
-#  repo-url: 
+  repo-url: "https://github.com/Paeddasan/Training-Processes-Lecture-Notes"
 
   

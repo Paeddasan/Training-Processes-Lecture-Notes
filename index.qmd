@@ -4,33 +4,30 @@
 library(tidyr)
 library(dplyr)
 library(readxl)
+library(knitr)
+library(kableExtra)
 
 #current document version displayed
-ls_metadata = list(last_update = as.Date("2025-09-04"),
-                   current_version = "0.0.4")
+ls_metadata = list(last_update = as.Date("2026-03-17"),
+                   current_version = "b0.0.1",
+                   author_name = "Peter Raidl",
+                   author_email = "peter.raidl@univie.ac.at",
+                   author_orcid = "0000-0002-1850-734X")
 save(ls_metadata,
         file = "metadata.rds")
-
-#set all tables to this form
-mykable <- function(df){
-  knitr::kable(df, digits = 2, align = "c", escape = F) %>%
-    kableExtra::kable_styling(font_size = 12)
-  }
-
 ```
 
 *Version `r ls_metadata$current_version`*
 
-Bearbeitet am `r ls_metadata$last_update`
+Last update `r ls_metadata$last_update`
 
-![](images/cover.png "Cover"){#fig-cover width="400"}
+![](images/cover.jpeg "Cover"){#fig-cover width="400"}
 
-Der vorliegende Text ist eine Verschriftlichung der Lehrveranstaltung (LV) Trainingsprozesse. Es soll als Skriptum für Studierende dienen und wird als offen zugänglicher Text bereitgestellt. Die aktuelle Version sollte als Beta-Version betrachtet werden und ich hoffe auf weitere Überarbeitungen während und nach dem laufenden Semester. Ich freue mich über Anregungen, Beschwerden und Wünsche von Studierenden und interessierte Leser\*innen.
+The present text is the lecture notes of the course **Training Processes created** by the lecturer (PR). It is intended to serve as a script for students and is provided as an openly accessible text. The current version should be considered a beta version, and I hope for further revisions during and after the current semester. I welcome suggestions, complaints, and requests from students and interested readers. I teach this seminar for the fourth time, but I have never invested in a comprehensive script. If you are a student in my seminar, please be aware that I do not guarantee that all information presented during the lecture is currently part of this script! This is a work in progress! Please treat it as an additional source of information. I will do my best to improve the text's quality and add additional chapters whenever possible.
 
-Das Seminar **Trainingsprozesse** ist Teil des Bachelorstudiums Sport- und Bewegungswissenschaften (Curriculum [2017](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/29.03.2017_Curriculum_Sportwissenschaft.pdf)und [2024](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/2024_2025_146.pdf)) an der [Universität Wien](https://www.univie.ac.at/).
+The seminar on Training Processes is part of the Bachelor's degree in Sports and Movement Sciences. (Curriculum [2017](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/29.03.2017_Curriculum_Sportwissenschaft.pdf) and [2024](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/2024_2025_146.pdf)) at the [University of Vienna](https://www.univie.ac.at/).
 
-Anmerkungen und konstruktive Kritik werden gerne via [E-Mail](peter.raidl@univie.ac.at) oder [Github](https://github.com/Paeddasan/PersonalCoaching_Script/discussions) angenommen.
+Constructive feedback is gladly accepted via [email](peter.raidl@univie.ac.at) or on [Github](https://github.com/Paeddasan/Training-Processes-Lecture-Notes/discussions). Thank you
 
-Herzlichen Dank!
 
 Peter Raidl [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1850-734X)

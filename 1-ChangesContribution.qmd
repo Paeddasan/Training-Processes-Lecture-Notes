@@ -1,0 +1,8 @@
+# Changes & Contributions
+
+Here you will find a list of ongoing adjustments to the notes, organized by date. Content adjustments suggested by readers and colleagues are highlighted separately. Many thanks to everyone involved!
+
+## Changes
+
+-   17.03.2026 Version 0.0.1
+    -   Upload the first Beta Version
