@@ -1,0 +1,172 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Training Processes",
+    "section": "",
+    "text": "1 Training Processes - Lecture Notes\nVersion b0.0.1\nLast update 2026-03-17\n\n\n\n\n\n\nFigure 1.1\n\n\n\nThe present text is the lecture notes of the course Training Processes created by the lecturer (PR). It is intended to serve as a script for students and is provided as an openly accessible text. The current version should be considered a beta version, and I hope for further revisions during and after the current semester. I welcome suggestions, complaints, and requests from students and interested readers. I teach this seminar for the fourth time, but I have never invested in a comprehensive script. If you are a student in my seminar, please be aware that I do not guarantee that all information presented during the lecture is currently part of this script! This is a work in progress! Please treat it as an additional source of information. I will do my best to improve the text’s quality and add additional chapters whenever possible.\nThe seminar on Training Processes is part of the Bachelor’s degree in Sports and Movement Sciences. (Curriculum 2017 and 2024) at the University of Vienna.\nConstructive feedback is gladly accepted via email or on Github. Thank you\nPeter Raidl",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Training Processes - Lecture Notes</span>"
+    ]
+  },
+  {
+    "objectID": "1-ChangesContribution.html",
+    "href": "1-ChangesContribution.html",
+    "title": "2  Changes & Contributions",
+    "section": "",
+    "text": "2.1 Changes\nHere you will find a list of ongoing adjustments to the notes, organized by date. Content adjustments suggested by readers and colleagues are highlighted separately. Many thanks to everyone involved!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Changes & Contributions</span>"
+    ]
+  },
+  {
+    "objectID": "1-ChangesContribution.html#changes",
+    "href": "1-ChangesContribution.html#changes",
+    "title": "2  Changes & Contributions",
+    "section": "",
+    "text": "17.03.2026 Version 0.0.1\n\nUpload the first Beta Version",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Changes & Contributions</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html",
+    "href": "2-intro.html",
+    "title": "3  Curriculum",
+    "section": "",
+    "text": "4 My Goals\nThis chapter is relevant for students in my course. If you are not currently enrolled, you can skip this chapter and directly jump to the chapter on the training process ?sec-2-trainingprocess.\nAs students attending this course, you already have a basic understanding of sports science, biomechanics, physiology, sports physiology, sports psychology, and related fields. The goal of this course is to translate the theoretical knowledge already acquired into practical applications. Following the curriculum, by the end of the course, you should be able to …\nAs a teacher, I want to create an open space for discussions, allowing us to consider diverse opinions and approaches. Many of you already bring experience and expertise in a specific area of training and movement. You have experience as athletes, coaches, or in other roles within sports- and movement-related areas. This expertise has proven to be very helpful for fellow students in past semesters and creates opportunities for exchange and collaborative learning. I hope to create a diverse course for you to deepen your understanding of training, establish an area of experience and gain new practical insights. The content is based on my readings of current scientific discussions and is expanded and complemented by personal experiences and best-practice examples.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#your-lvid",
+    "href": "2-intro.html#your-lvid",
+    "title": "3  Curriculum",
+    "section": "5.1 Your LVID",
+    "text": "5.1 Your LVID\nEvery student receives a Unique Identifier (LVID) during the course, which is a random four-digit number. This should be used when conducting pseudonymized evaluations, filling out monitoring, and for some assignments. This strategy helps me to gain an unbiased view of the performance and your feedback.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#open-discussion",
+    "href": "2-intro.html#open-discussion",
+    "title": "3  Curriculum",
+    "section": "6.1 Open discussion",
+    "text": "6.1 Open discussion\nI want to establish an atmosphere for discussion where all opinions are welcome. This means that not only I, but also students who speak up, will be given attention, and the opinions and questions of everyone will be taken seriously. We will, however, strictly stick to discussions related to the immediate topic. The open discussion also includes the assessment criteria and partial performances. These can also be objected to until the third session.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#attendance-rate",
+    "href": "2-intro.html#attendance-rate",
+    "title": "3  Curriculum",
+    "section": "6.2 Attendance rate",
+    "text": "6.2 Attendance rate\nThe minimum attendance requirement is set at 75% of the sessions. A session is considered fully attended if the student is no more than 15 minutes late. If the 15-minute limit is exceeded, half of the attendance will be deducted. Repeated unjustified late arrivals of less than 15 minutes may result in a deduction of points from the participation grade. This is to ensure a smooth process. Being on time for the course not only supports you but also helps your colleagues engage with the content independently.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#independent-performance",
+    "href": "2-intro.html#independent-performance",
+    "title": "3  Curriculum",
+    "section": "6.3 Independent Performance",
+    "text": "6.3 Independent Performance\n\n6.3.1 Plagiarism\nIndependent performance is a key criterion of the course. Plagiarism is, therefore, strictly penalized. According to legal standards, plagiarism is the intentional adoption of content without citing the source (see guidelines Univie, 2026). Since plagiarism can also occur unintentionally, the first submission of a plagiarized work results in a warning. However, continued violations will result in a reduction in points; partial performance will then be graded with as few as 0 points.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#use-of-artificial-intelligence",
+    "href": "2-intro.html#use-of-artificial-intelligence",
+    "title": "3  Curriculum",
+    "section": "6.4 Use of Artificial Intelligence",
+    "text": "6.4 Use of Artificial Intelligence\nThe regulation of independent student performance also extends to non-biological entities, especially large language models (LLMs1). Of course, the use of AI can be a great support in developing content or analyzing datasets. However, it also carries the risk of negatively affecting learning experience, creativity, and the ability to find one’s own solutions.\nStrictly ensure that the data we are using is only fed in anonymized! Our course material is already a tweaked version of the original data. However, the moment you are working with real athletes 2 it is one of your highest priorities to securely handle their data! That is what we aim for during the course. In cases of obvious neglect and misuse of AI, there will be significant point deductions. A typical sign of AI misuse is citing hallucinated studies. Results from evaluations can also contain errors. If AI use is not disclosed fully, a deduction of up to 20 points will be applied. When non-anonymized data is given to the models, up to 40 points will be deducted, making it difficult to pass.\n\nThe road to hell is paved with good AI models",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#how-to-use-ai-for-this-course",
+    "href": "2-intro.html#how-to-use-ai-for-this-course",
+    "title": "3  Curriculum",
+    "section": "6.5 How to use AI for this course",
+    "text": "6.5 How to use AI for this course\nRealistically, I cannot control how much you use AI for course assignments. However, I would like to suggest a targeted use! AI should support your thinking and learning rather than replace them.\nThe foundation of AI-supported work is what I call the 1-2-3 Rule: Give each task at least 1 hour of your own unsupported thinking, spread out over at least 2 different days. After that, it’s helpful to get feedback, and AI can provide valuable support. When doing so, use at least 3 chained prompts for re-evaluating inputs and outputs.\n\n\n\n\n\n\nTip1-2-3 rule of AI use for learning and thinking\n\n\n\nOne hour on two days with three prompts — this heuristic should guide you when using AI during learning.\n\n\n\n6.5.1 Additional tips for using AI:\nResearch: When you are new to a topic, it can sometimes be difficult to find the right studies because you are not yet familiar with the technical terms. Of course, just reading a lot may help in the long run. However, AI can provide an overview of the most important terms and concepts to get started. AI can also improve search strings and help you become familiar with major databases like PubMed and Web of Science. AI can also help you find studies and summarize the content. But this is tricky! Currently, we lecturers see a lot of hallucinated information in submitted students’ texts. If you use AI to find and comprehend information, always double-check the original source thoroughly! You will be surprised how often AI confidently gives you information that is actually false. The models will improve over time, and maybe in a few years, they will be better than any expert in providing information. But we are not there, yet - and it is not certain that we will get there!\nDevil’s Advocacy: Most common standard AI models tend to agree with you even when you’re wrong. They often reinforce our preconceptions. Additionally, we are inclined to believe them because of their eloquent wording, convincing tone, and (sometimes random or hallucinated) sources—especially when they reinforce our assumptions. . Instead, give the AI the task of criticizing your work and identifying weaknesses. It gives a pretty good sparring partner if it knows what you want from it. Explain something you may think you know, or prompt your ideas on a training process, and ask it to tell you where you are wrong or what concepts you missed. (Remember, you can also be your own devil’s advocate before letting the AI do it #1-2-3rule.)\nData management: If you want to edit data or display it in a chart, AI naturally offers a way to support you. However, instead of directly entering the data and letting AI create the chart, it is advisable to request a code block in R or Python or a step-by-step guide for Excel. Let it explain each step so you understand the intention and the technicalities. This way, you don’t have to reveal your data, and you also avoid the risk of the AI distorting the data points or calculating something incorrectly, even if it ‘knows’ the correct method.\nLanguage curation: If you use AI to improve language, grammar, and spelling, it is always advisable to list the proposed changes. If you use Word (or a similar software), you can use comparison mode to see the curation side by side with the original version. This text is heavily curated with AI (u:AI and Grammarly). But I frequently encounter mistakes or misrepresentations of my entered text. So stay vigilant on that front too.\nFurther Information: You can also find some information on AI on the university’s website (Checklist Univie, 2026)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#arbeitsaufwand",
+    "href": "2-intro.html#arbeitsaufwand",
+    "title": "3  Curriculum",
+    "section": "6.6 Arbeitsaufwand",
+    "text": "6.6 Arbeitsaufwand\nThe course is listed with 2 ECTS credits. This should correspond to a workload of 50-60 hours for the average student (ECTS Univie, 2026). The attendance time is approximately 22 hours, so you can expect an additional workload of 30 hours. Spread over the semester, this amounts to roughly 1 hour and 45 minutes per week. Since the assigned workload is based solely on my estimate, I ask that you track your actual effort. Complete tracking will be rewarded with extra points and will help improve the course’s quality.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#assessment-criteria-and-grading",
+    "href": "2-intro.html#assessment-criteria-and-grading",
+    "title": "3  Curriculum",
+    "section": "6.7 Assessment Criteria and Grading",
+    "text": "6.7 Assessment Criteria and Grading\nThe grading follows the institute’s usual standards (Table 6.1). The partial performances consist of main components (monitoring, training documentation, journal club, teach-back, data processing) and bonus components (round table, workload tracking).\n\n\nCode\ngrading_tbl &lt;- readxl::read_xlsx(\"./files/organisation.xlsx\",\n                                 sheet = \"grading\")\n\nknitr::kable(grading_tbl) %&gt;% \n    kableExtra::kable_styling(bootstrap_options = c(\"striped\", \"hover\"), position = \"center\", full_width = F, )\n\n\n\n\nTable 6.1: grading of the course\n\n\n\n\n\n\nGrade\nmin\nmax\n\n\n\n\n1\n91\n100\n\n\n2\n81\n90\n\n\n3\n71\n80\n\n\n4\n60\n70\n\n\n5\n0\n59\n\n\n\n\n\n\n\n\nI strive for a fair assessment. Individual solutions for performance delivery are possible, but should be discussed with me early on. Please contact me as soon as possible if you need any adjustments.\nParticipation is primarily assessed through quizzes during class, as well as two quizzes to be completed at home. Additionally, the check-outs on Moodle are taken into account.\nTraining Documentation: You should keep your own training journal and monitor your training throughout the semester. Later in the semester, you will draw conclusions from it and create a training plan fitting your personal needs. The minimum requirement is a training diary covering at least 8 weeks, including all load parameters and using an additional monitoring tool (see later chapters). I think it is a good practice to document and evaluate one’s own training process.\nJournal Club: Two sessions will be dedicated to reading and interpreting training-related articles. Continuous education through understanding scientific evidence is essential. We must assume that learned knowledge quickly becomes outdated. Therefore, adapting your own actions based on new evidence is unavoidable for a professional sports scientist. I will provide you with an article in each session. After discussing some general reading strategies and how to organize acquired knowledge, you will read the articles by yourself, following the outlined structure. Afterwards, we will discuss the topic and try to identify actionable strategies from the information.\nTeach-Back: In this session, you take on the role of the teacher and present a topic you have prepared. This provides an opportunity to incorporate your own areas of expertise. Each presentation should last about 10 minutes and will be held in front of an audience of 4-5 other students. The assessment is provided through peer review within your small group. This is really an opportunity to strengthen your own understanding of what you think matters most. You can also think of it Richard-Feynman-Style who has said on different occasions that you only really understand it when you can explain it in simple terms.\nData Processing: During the course, you will work with training and test data. Sometimes we do that in class, sometimes there is an at-home exercise. The goal is to act as a trainer and answer specific practical questions by analyzing the data. You will need a laptop or tablet for this. We use Google Sheets because it works well across systems, it’s easy to distribute data, and it is free to use. If you have some experience with Excel, R, Python, or any other program/language, feel free to transition. Submissions are evaluated as reports or specific questions that will be given to you with the dataset.\nBonus 1 - Roundtable: A live in-person event featuring external experts from science and practice is held each semester. In the 2026S semester, we will focus on field sports in light of the upcoming FIFA World Cup. All students are invited to participate and will receive 10 extra credit points.\nBonus 2 - Tracking Workload: I created this bonus assignment to better understand how much work students need to put into the material to progress through the course. To get 5 extra points, submit a table listing all tasks you have performed for this seminar, including the times. It must be in a format I can easily edit and analyse (.csv, .txt, .xlsx).\n\n\nCode\npoints_tbl &lt;- readxl::read_xlsx(\"./files/organisation.xlsx\",\n                                 sheet = \"points\")\n\nknitr::kable(points_tbl) %&gt;% \n    kableExtra::kable_styling(bootstrap_options = c(\"striped\", \"hover\"), position = \"center\", full_width = F, )\n\n\n\n\nTable 6.2: assignment points\n\n\n\n\n\n\n...1\nPartial assignment\n...3\n\n\n\n\n1\nParticipation + Quizzes\n30\n\n\n2\nMonitoring and Documentation\n10\n\n\n3\nJournal Club\n15\n\n\n4\nTeach Back\n15\n\n\n5\nData Management\n30\n\n\n-\nSUM\n100\n\n\n6\nBonus: Roundtable\n10\n\n\n7\nBonus: Tracking\n5\n\n\n-\nSumme+Bonus\n115",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#time-table",
+    "href": "2-intro.html#time-table",
+    "title": "3  Curriculum",
+    "section": "6.8 Time table",
+    "text": "6.8 Time table\nThe course follows a schedule that can be adjusted to meet the students’ needs in each semester. We typically start with monitoring and a general theoretical block. At the beginning, the seminar will be held mostly as a lecture, but we will gradually move towards more active student engagement. We work our way through all phases of the training process. I will always try to reserve at least one session for Q&A or for special topics requested by the students.\n\n\nCode\ntime_tbl &lt;- readxl::read_xlsx(path = \"./files/organisation.xlsx\", sheet = \"timetable\")\nknitr::kable(time_tbl) %&gt;% \n  kableExtra::kable_styling(bootstrap_options = c(\"striped\", \"hover\"))\n\n\n\n\nTable 6.3: timetable of the course\n\n\n\n\n\n\nn\nTheme\nMethods\nMaterial\nContent\n\n\n\n\n1\nOrganisation\nLecture/Discussion\n-\nIntroduction to the coures; organisation; assignments;\n\n\n2\nMonitoring 1\nLecture/Discussion\n-\nStudents are instructed in the basics of monitoring and then begin documenting their training.\n\n\n3\nTheory of Training processes\nLecture/Discussion & Sports-Analysis\nLaptop/Tablet (+ Google Sheets)\nTheoretical background; Exercise in analyzing an athletic event or sports\n\n\n4\nTesting 1\nLecture/Discussion\n-\nTest theory; reliability and validity;\n\n\n5\nTesting 2\nData management\nLaptop/Tablet (+ Google Sheets)\nEdit and analyze simple data of a testing battery\n\n\n6\nData management\nHome based session\nLaptop, Internet, sound,\nAssignment based on a datasset and training-relevant decision making\n\n\n7\nTeach back\nPresentations by students\nMaterial to present, wirting material\nStudents prepare a topic and present it in groups of 4-5 people (10 minutes) with subsequent discussion and evaluation by peers\n\n\n8\nMonitoring 2\nLecture/Discussion\nPen and paper\nFurther monitoring strategies for strength and conditioning\n\n\n9\nJournal Club 1\nreading and discussion\npen and paper, Laptop or tablet\nReading strategies are presented. Students read a study and discuss afterward; multiple-choice questions are answered.\n\n\n10\nJournal Club 2\nreading and discussion\npen and paper, Laptop or tablet\nReading a study and discussion in small groups; implementation of the content in the training process\n\n\n11\nPractical examples\nhome based video lecture with examples and questions\nLaptop/Tablet (+ Google sheets)\nReal and simulated data are presented, and 'puzzles' are solved.\n\n\n12\nApplications\nyour own training data\nLaptop/Tablet (+ Google sheets)\nStudents analyze their own dataset\n\n\n13\nApplications\nyour own training data\nLaptop/Tablet (+ Google sheets)\nStudents analyze their own dataset and plan next steps in their training process\n\n\n14\nPlaning\nreading and discussion\nLaptop/Tablet; eigene Trainingsdaten\nExercise goal setting and fine-tune a training plan based on individual needs\n\n\n15\nAdditional session\nQ&A or student's chosen topic\n-\n-\n\n\n\n\n\n\n\n\nPlease note that some sessions will not take place in person but will be delivered as video lectures or data processing for at-home study.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "2-intro.html#footnotes",
+    "href": "2-intro.html#footnotes",
+    "title": "3  Curriculum",
+    "section": "",
+    "text": "I will mostly refere to AI↩︎\nThroughout the text I will refere to athletes. However, all basic principles of the training process could be relevant for working with patients or the general population. Just think about it the way Bill Bowerman framed it: “if you have a body, you are an athlete.” (I couldn’t find the original source of this quote; however, Bowerman seems to be referenced most often)↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Curriculum</span>"
+    ]
+  },
+  {
+    "objectID": "3-Trainingprocess.html",
+    "href": "3-Trainingprocess.html",
+    "title": "4  Training Process",
+    "section": "",
+    "text": "Training\nProcess orientation\nDifferent phases of the training process\nModels of adaptation\nTraining principles\ntop-down bottom-up approaches\ninterventionism and watchful waiting",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Training Process</span>"
+    ]
+  },
+  {
+    "objectID": "8-Monitoring.html",
+    "href": "8-Monitoring.html",
+    "title": "5  Monitoring",
+    "section": "",
+    "text": "In this chapter, we introduce training monitoring. I will describe what it is, then give an overview of goals and overall principles before diving into specific methods used to monitor training.\nRemember from Chapter 3 (once I write it down 😋) that monitoring is one of the two established strategies to handle the complexity of biological adaptations to training. Primarily, it is the observation of load and strain throughout training. The overarching goal is to adhere to the fundamental training principles1, avoid unwanted adaptations, minimize injury risk, and predict peak performance. These are high and hard-to-reach goals. In particular, reducing the risk of injury and improving the prediction of performance peaks are somewhat like the holy grails in sports science. Even for highly technological expert teams, these are very difficult to achieve in the complex reality.\nMonitoring is the continuous observation and assessment of the training, and assists coaches and athletes in flexible decision-making throughout the process without dedicated testing. Specifically, we try to estimate external and internal loads and compare them to the prescribed training plan. This continuous observation is also a form of invisible testing. Instead of conducting dedicated tests, monitoring allows you to document the athlete’s performance or physiological response directly from training. Compared to explicit testing sessions, invisible testing has some pros and cons.\nBriefly discussed: Explicit testing allows for a well-standardized procedure, leading to (hopefully) valid and reliable data that provide further insights into physiology or help differentiate constructs of performance. Think of laboratory tests like CPET or an isokinetic dynamometer to get precise values that you can not conduct easily on the field. They may be costly and time-intensive, need well-trained testers and preparation. Followingly, athletes (and coaches) might enter an explicit testing situation with quite a different mindset. The performance during a test might more closely reflect competition than training data. Explicit testing can also backfire if athletes or coaches manipulate the test to obtain lower test results. For example, at the beginning of the season, athletes may hold back a little, or the coach may hold them back or downplay the significance of the test. This makes sense if they want to present higher rates of improvement. It could also be a result of low buy-in, which comes back as your role as an effective communicator. Invisible testing, on the other hand, can give more realistic estimations of performance and adaptation. However, they lack standardization, and the data is generally messier. For more information on testing, see the upcoming chapter.)\nMonitoring goes beyond tracking load parameters. The big advantage comes from monitoring markers of readiness, fatigue, health, behaviour, mental processes, physiological adaptations, and performance, thereby supporting auto-regulation. Auto-regulation refers to a flexible approach to load management or training content based on acute performance or psychophysiological states (Greig et al. 2020). For example, an athlete may measure their isometric grip strength daily to evaluate readiness and fatigue. Typically, their maximal force is 60 kg with a standard deviation (SD) of 3 kg. Whenever their grip strength drops under a certain cut-off (for example, $ 2 SD $), they consider reducing the training volume for the day by 20%, leaving out the most taxing exercise. Another example of autoregulation is adjusting the weight used during resistance exercises based on barbell velocity, or opting for a recovery day when morning HRV drops significantly.\nOverall, there is good scientific evidence that autoregulation may be more effective than fixed prioritization for strength development (Zhang et al. 2021) and endurance training. Some recent studies show (surprisingly consistent) benefits for different physical attributes of speed skaters (Di, Hongye, and Donglin 2025). It is not clear which monitoring tools or parameters are most effective. Probably a combination of different objective and subjective metrics should be considered. A 2022 study of 20 amateur rugby players found greater improvements when implementing objective (velocity-based) auto-regulation than when using subjective (RPE-based) autoregulation for strength and power (Shattock and Tee 2022). However, this result may be very specific.  Depending on the outcome of interest, some markers may be better than others. From a practical perspective, the choice is also always a question of resources and the athlete’s adherence.\nWe should also remember that, in scientific experiments, as in the studies presented, researchers typically aim to standardize the training process as much as possible to obtain a robust estimate of population-based results. In the context of auto-regulation, this means that the adaptation of training is typically fixed to a certain change in the monitoring variables. However, in practical settings, the monitoring variable is just a tool to start a conversation. Auto-regulation should be viewed as the flexible adjustment of training based on individual needs, established by the athlete, while the coach supports informed decision-making!",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Monitoring</span>"
+    ]
+  },
+  {
+    "objectID": "8-Monitoring.html#footnotes",
+    "href": "8-Monitoring.html#footnotes",
+    "title": "5  Monitoring",
+    "section": "",
+    "text": "I use the training principles as “fundamental” practical guidelines that serve as heuristics during a training process. The training principles will be revised in Chapter 3 (once it is out) but can be found in nearly every textbook on training science e.g. (Ferrauti 2020, p 39).↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Monitoring</span>"
+    ]
+  }
+]
