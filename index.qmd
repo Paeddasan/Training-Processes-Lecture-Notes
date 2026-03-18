@@ -23,10 +23,14 @@ Last update `r ls_metadata$last_update`
 
 ![](images/cover.jpeg "Cover"){#fig-cover width="400"}
 
-The present text is the lecture notes of the course **Training Processes created** by the lecturer (PR). It is intended to serve as a script for students and is provided as an openly accessible text. The current version should be considered a beta version, and I hope for further revisions during and after the current semester. I welcome suggestions, complaints, and requests from students and interested readers. I teach this seminar for the fourth time, but I have never invested in a comprehensive script. If you are a student in my seminar, please be aware that I do not guarantee that all information presented during the lecture is currently part of this script! This is a work in progress! Please treat it as an additional source of information. I will do my best to improve the text's quality and add additional chapters whenever possible.
+This text serves as lecture notes for students enrolled in the **Training Processes** course at the University of Vienna and is provided as an openly accessible resource. The current version should be considered a **beta version**, and I hope for further revisions during and after the current semester. I welcome suggestions, complaints, and requests from students and interested readers.
+
+If you are a student in my seminar, please be aware that I do not guarantee that all information presented during the lecture is currently part of this script! This is a work in progress! Please treat it as an additional source of information. I will do my best to improve the text's quality and add additional chapters whenever possible.
 
 The seminar on Training Processes is part of the Bachelor's degree in Sports and Movement Sciences. (Curriculum [2017](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/29.03.2017_Curriculum_Sportwissenschaft.pdf) and [2024](https://lehre-schmelz.univie.ac.at/fileadmin/user_upload/p_studienangebote_schmelz/Studium/Studienangebote/Studienrichtung/2024_2025_146.pdf)) at the [University of Vienna](https://www.univie.ac.at/).
 
-Constructive feedback is gladly accepted via [email](peter.raidl@univie.ac.at) or on [Github](https://github.com/Paeddasan/Training-Processes-Lecture-Notes/discussions). Thank you
+Constructive feedback is gladly accepted via [email](peter.raidl@univie.ac.at) or on [GitHub](https://github.com/Paeddasan/Training-Processes-Lecture-Notes/discussions).
+
+Thank you,
 
 Peter Raidl [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1850-734X)
