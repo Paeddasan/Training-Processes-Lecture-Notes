@@ -29,5 +29,4 @@ The seminar on Training Processes is part of the Bachelor's degree in Sports and
 
 Constructive feedback is gladly accepted via [email](peter.raidl@univie.ac.at) or on [Github](https://github.com/Paeddasan/Training-Processes-Lecture-Notes/discussions). Thank you
 
-
 Peter Raidl [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1850-734X)
