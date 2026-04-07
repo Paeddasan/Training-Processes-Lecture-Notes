@@ -35,7 +35,6 @@ book:
   page-navigation: true
 
 bibliography: Teaching and Lectures.bib
-
 code-fold: true
 
 format:
