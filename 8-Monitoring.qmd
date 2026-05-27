@@ -36,7 +36,6 @@ Instead of conducting dedicated tests, monitoring allows you to document the ath
 
 ## Multidimensional Monitoring
 
-
 Monitoring goes beyond tracking load parameters. The big advantage comes from monitoring markers of readiness, fatigue, health, behavior, mental processes, physiological adaptations, and performance. There are hundreds of potential markers for each of the mentioned constructs. None of them is a perfect representation, but should be viewed as practical solutions to quantify the latent structure (i.e., operationalization). In practice, at least one metric should be selected for each of the constructs of interest. No monitoring is perfect, so as a SpoSci, your job is to figure out which monitoring tools are most useful for your athlete and the goal, which provide scientifically rigorous data, while being easy to apply and do not put too much physiological or psychological burden on the athlete (or the analyst).
 
 ::: callout-note
@@ -117,17 +116,13 @@ Interoception is the processing of internal sensations coming from the body and 
 
 To gain a comprehensive understanding of training, we should select monitoring variables from different aspects of the athlete-environment interaction. Rebelo et al. [-@rebeloMonitoringTrainingEffects2026] give us 4 domains of monitoring variables, presented in @fig-monitoring_domains.
 
-
 ![Monitoring domains with example variables presented in Rebelo et al., 2026, p. 8](images/Rebelo206_domains.png){#fig-monitoring_domains .illustration width="594"}
-
 
 ### External and Internal Load
 
 Vanrenterghem et al. [-@vanrenterghemTrainingLoadMonitoring2017] presented a framework that differentiated between **biomechanical and physiological load**, both from external and internal perspectives (@fig-loadmonitoring). Biomechanical and physiological load should be considered separately to represent distinct pathways or subsystems of adaptation. Basically, the argument is similar to that of Chiu and Barens [-@chiuFitnessFatigueModelRevisited2003], who presented different modeling curves of fitness and fatigue. They argue that adaptations are based on internal loading, which is sometimes harder to estimate. Their paper focuses on team sports. But the idea can be applied to other training paradigms [@vanrenterghemTrainingLoadMonitoring2017].
 
-
 ![Load monitoring presented in Vanrenterghem et al., 2017, p 3](images/Vanrenterghem2017.png){#fig-loadmonitoring .illustration}
-
 
 In general, biomechanical external loads are relatively easy to measure directly. In the context of strength and conditioning, external biomechanical loads are parameters that define and structure training plans for strength and power-based applications. Internal biomechanical loads are much more difficult to capture. They can hardly be measured directly but must be estimated based on external loads and biomechanical models.
 
