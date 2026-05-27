@@ -1,3 +1,4 @@
+# Monitoring
 
 In this chapter, we introduce training monitoring. I will describe what it is, then give an overview of goals and overall principles before diving into specific methods used to monitor training.
 

@@ -1,3 +1,4 @@
+# Lecture Notes
 
 ```{r, include = FALSE, message= FALSE}
 library(tidyr)
