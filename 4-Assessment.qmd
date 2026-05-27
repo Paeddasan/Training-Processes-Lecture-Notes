@@ -1,9 +1,6 @@
----
-title: "4-Assessment"
-format: html
----
+# Assessments
 
-# Bring Athletes and Sports Closer Together
+## Bring Athletes and Sports Closer Together
 
 As discussed in @sec-trainingprocess, the training process is not linear but cyclic. However, when starting from scratch, you typically begin with an in-depth analysis of the person and the movement activity (sport). The goal is to fit the sport and the athlete as well as possible. This can be achieved by bringing the right person to the right sport (i.e., scouting and sampling), by implementing the right training interventions so the athlete better meets the demands of the sport, or by leveraging the athlete's individual characteristics in an advantageous way. I think that the last way is less understood and often neglected. But good coaches use this method all the time by letting athletes find their own way or implementing individual tactics and strategies.
 
@@ -13,7 +10,7 @@ On the other side of the equation, you have the individual athlete. Here, the as
 
 So, it is not the sport alone that dictates what the "optimal athlete" looks like. Each athlete also shapes the sport. Many innovations and advancements in sports and human performance are made possible by unconventional ideas, and bringing the sport and the athlete together instead of chasing an ideal.
 
-# The "Outlier" Problem and Top-Down Assumptions
+## The "Outlier" Problem and Top-Down Assumptions
 
 We must be careful not to overestimate our predictive power as sports scientists. We often rely on top-down, population-based models to define what "optimal" biomechanics or physiology should look like, yet elite sports are defined by outliers. Consider Stefan Holm, who won Olympic gold in the high jump despite being significantly shorter than his peers @fig-stefanholm. If we had only looked at his anthropometrics or bone structure at, let's say, age 16, we might have predicted that he would never reach elite status, ([which was told to him at times](https://worldathletics.org/heritage/news/stefan-holm-high-jump-world-indoor-bibs-mowa)).
 
@@ -25,7 +22,7 @@ Similarly, look at weightlifter Dimitri Klokov squatting 240 kg for 10 reps with
 
 Or consider elite runners exhibiting severe dynamic knee valgus. As a coach, attempting to "correct" these biomechanical patterns to fit a textbook ideal might actually be detrimental to their performance (or not). High-level athletes often figure out functional solutions tailored to their unique structural constraints through bottom-up trial and error, rather than top-down biomechanical corrections. When we see training routines or technical analyses of athletes, we may ask: **Is this athlete successful because of their training/technique, or sometimes in spite of it?**
 
-# Needs Analysis
+## Needs Analysis
 
 Sport vs. Athlete to understand the sport, you must break down its multifaceted requirements:
 
@@ -52,7 +49,7 @@ Triangulating Evidence in Sports Science When designing interventions, we draw f
 
 <!--#
 
-# Goal setting
+## Goal setting
 
 Goal Setting and Classical Test Theory Key Performance Indicators (KPIs) act as our benchmarks (e.g., a minimum VO2max of 45 for a specific sport). Crucially, surpassing an optimal KPI does not necessarily equate to improved competitive performance; infinite resources shouldn't be wasted on maximizing a trait once the optimal threshold is reached.
 

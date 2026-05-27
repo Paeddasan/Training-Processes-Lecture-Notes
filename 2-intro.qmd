@@ -6,9 +6,11 @@ library(knitr)
 library(kableExtra)
 ```
 
+# Introduction
+
 This chapter is relevant for students in my course. If you are not currently enrolled, you can skip this chapter and directly jump to the chapter on the training process [@sec-2-trainingprocess].
 
-# Curriculum
+## Curriculum
 
 As students attending this course, you already have a basic understanding of sports science, biomechanics, physiology, sports physiology, sports psychology, and related fields. The goal of this course is to translate the theoretical knowledge already acquired into practical applications. Following the curriculum, by the end of the course, you should be able to ...
 
@@ -18,11 +20,11 @@ As students attending this course, you already have a basic understanding of spo
 
 3.  ... guide and facilitate self- and external reflection in order to continuously improve the entire training work, its progress, and documentation.
 
-# My Goals
+## My Goals
 
 As a teacher, I want to create an open space for discussions, allowing us to consider diverse opinions and approaches. Many of you already bring experience and expertise in a specific area of training and movement. You have experience as athletes, coaches, or in other roles within sports- and movement-related areas. This expertise has proven to be very helpful for fellow students in past semesters and creates opportunities for exchange and collaborative learning. I hope to create a diverse course for you to deepen your understanding of training, establish an area of experience and gain new practical insights. The content is based on my readings of current scientific discussions and is expanded and complemented by personal experiences and best-practice examples.
 
-# Tracking Progress
+## Tracking Progress
 
 An important part of a successful training process is continuous monitoring and adjustment of the training. Similarly, I try to control and evaluate the learning process. For this, I rely on a similar multi-stage control system with testing and monitoring.
 
@@ -35,29 +37,29 @@ An important part of a successful training process is continuous monitoring and 
 
 [![Monitoring Dashboard version 0.1](images/monitoring_dashboard.png){#fig-dashboard fig-align="center"}](https://peterraidl.shinyapps.io/Monitoring_LVTP/)
 
-## Your LVID
+### Your LVID
 
 Every student receives a Unique Identifier (LVID) during the course, which is a random four-digit number. This should be used when conducting pseudonymized evaluations, filling out monitoring, and for some assignments. This strategy helps me to gain an unbiased view of the performance and your feedback.
 
-# Organizational Directives
+## Organizational Directives
 
 Several rules are proposed at the beginning of the course. These are to be reviewed by you and can be challenged until the third session. A change to the rule can be proposed in the plenary and voted on together. The current rule proposals are as follows:
 
-## Open discussion
+### Open discussion
 
 I want to establish an atmosphere for discussion where all opinions are welcome. This means that not only I, but also students who speak up, will be given attention, and the opinions and questions of everyone will be taken seriously. We will, however, strictly stick to discussions related to the immediate topic. The open discussion also includes the assessment criteria and partial performances. These can also be objected to until the third session.
 
-## Attendance rate
+### Attendance rate
 
 The minimum attendance requirement is set at 75% of the sessions. A session is considered fully attended if the student is no more than 15 minutes late. If the 15-minute limit is exceeded, half of the attendance will be deducted. Repeated unjustified late arrivals of less than 15 minutes may result in a deduction of points from the participation grade. This is to ensure a smooth process. Being on time for the course not only supports you but also helps your colleagues engage with the content independently.
 
-## Independent Performance
+### Independent Performance
 
-### Plagiarism
+#### Plagiarism
 
 Independent performance is a key criterion of the course. Plagiarism is, therefore, strictly penalized. According to legal standards, plagiarism is the intentional adoption of content without citing the source ([see guidelines Univie, 2026](https://studienpraeses.univie.ac.at/en/information-on-study-law/safeguarding-good-scientific-practice/plagiarism/)). Since plagiarism can also occur unintentionally, the first submission of a plagiarized work results in a warning. However, continued violations will result in a reduction in points; partial performance will then be graded with as few as 0 points.
 
-## Use of Artificial Intelligence
+#### Use of Artificial Intelligence
 
 The regulation of **independent student performance** also extends to non-biological entities, especially large language models (LLMs[^2-intro-1]). Of course, the use of AI can be a great support in developing content or analyzing datasets. However, it also carries the risk of negatively affecting learning experience, creativity, and the ability to find one's own solutions.
 
@@ -69,7 +71,7 @@ Strictly ensure that the data we are using is only fed in anonymized! Our course
 
 > *The road to hell is paved with good AI models*
 
-## How to use AI for this course
+#### How to use AI for this course
 
 Realistically, I cannot control how much you use AI for course assignments. However, I would like to suggest a targeted use! **AI should support your thinking and learning rather than replace them.**
 
@@ -81,7 +83,7 @@ The foundation of AI-supported work is what I call the **1-2-3 Rule**: Give each
 One hour on two days with three prompts — this heuristic should guide you when using AI during learning.
 :::
 
-### Additional tips for using AI:
+#### Additional tips for using AI:
 
 **Research:** When you are new to a topic, it can sometimes be difficult to find the right studies because you are not yet familiar with the technical terms. Of course, just reading a lot may help in the long run. However, AI can provide an overview of the most important terms and concepts to get started. AI can also improve search strings and help you become familiar with major databases like PubMed and Web of Science. AI can also help you find studies and summarize the content. But this is tricky! Currently, we lecturers see a lot of hallucinated information in submitted students' texts. If you use AI to find and comprehend information, always double-check the original source thoroughly! You will be surprised how often AI confidently gives you information that is actually false. The models will improve over time, and maybe in a few years, they will be better than any expert in providing information. But we are not there, yet - and it is not certain that we will get there!
 
@@ -153,7 +155,7 @@ knitr::kable(time_tbl) %>%
 
 Please note that some sessions will not take place in person but will be delivered as video lectures or data processing for at-home study.
 
-# The Philosophy behind the Course
+## The Philosophy behind the Course
 
 The course is grounded in my understanding of the **Sport and Human Movement Scientist as a** **Generalist**. When you finish your undergraduate education, you have a multidimensional set of skills. Working in the field of exercise and sports training, this can be a huge asset! You should be capable of taking on multiple roles or wearing different hats:
 

@@ -18,7 +18,7 @@ book:
     - 1-ChangesContribution.qmd
     - 2-intro.qmd
     - 3-Trainingprocess.qmd
-    #- 4-Assessment
+    - 4-Assessment.qmd
     #- 5-Goals.qmd
     #- 6-Testing.qmd
     #- 7-Planning.qmd

@@ -8,8 +8,8 @@ library(knitr)
 library(kableExtra)
 
 #current document version displayed
-ls_metadata = list(last_update = as.Date("2026-04-07"),
-                   current_version = "b0.0.1",
+ls_metadata = list(last_update = as.Date("2026-05-27"),
+                   current_version = "b0.0.2",
                    author_name = "Peter Raidl",
                    author_email = "peter.raidl@univie.ac.at",
                    author_orcid = "0000-0002-1850-734X")
