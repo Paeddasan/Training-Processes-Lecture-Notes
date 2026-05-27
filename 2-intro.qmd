@@ -93,7 +93,7 @@ One hour on two days with three prompts — this heuristic should guide you when
 
 **Further Information:** You can also find some information on AI on the university's website ([Checklist Univie, 2026](https://studieren.univie.ac.at/en/using-ai-in-your-studies/academic-work-and-writing-with-ai/checklist-for-the-responsible-use-of-ai/))
 
-## Arbeitsaufwand
+## Workload
 
 The course is listed with 2 ECTS credits. This should correspond to a workload of 50-60 hours for the average student ([ECTS Univie, 2026](https://studieren.univie.ac.at/en/abc-of-terminology/related-entries/?tx_irfaq_pi1%5BshowUid%5D=30862&cHash=5a07e0ec2271e001eb09cf487f209db1)). The attendance time is approximately 22 hours, so you can expect an additional workload of 30 hours. Spread over the semester, this amounts to roughly 1 hour and 45 minutes per week. Since the assigned workload is based solely on my estimate, I ask that you track your actual effort. Complete tracking will be rewarded with extra points and will help improve the course's quality.
 
