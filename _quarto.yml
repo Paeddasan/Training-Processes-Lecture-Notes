@@ -54,9 +54,4 @@ format:
     cover-image: images/cover.jpeg
 editor: visual
 
-website:
-  title: "Training Processes"
-  description: "Lecture Notes"
-  repo-url: "https://github.com/Paeddasan/Training-Processes-Lecture-Notes"
-
   
