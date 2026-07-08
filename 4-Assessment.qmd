@@ -14,7 +14,6 @@ So, it is not the sport alone that dictates what the "optimal athlete" looks lik
 
 We must be careful not to overestimate our predictive power as sports scientists. We often rely on top-down, population-based models to define what "optimal" biomechanics or physiology should look like, yet elite sports are defined by outliers. Consider Stefan Holm, who won Olympic gold in the high jump despite being significantly shorter than his peers @fig-stefanholm. If we had only looked at his anthropometrics or bone structure at, let's say, age 16, we might have predicted that he would never reach elite status, ([which was told to him at times](https://worldathletics.org/heritage/news/stefan-holm-high-jump-world-indoor-bibs-mowa)).
 
-
 ![](images/StefanHolm2012.png){#fig-stefanholm width="361"}
 
 Similarly, look at weightlifter Dimitri Klokov squatting 240 kg for 10 reps with a highly asymmetrical foot position, reportedly due to anatomical hip asymmetries.
@@ -48,6 +47,7 @@ Triangulating Evidence in Sports Science When designing interventions, we draw f
 
 3.  Direct Observation ("Watch!"): When literature is lacking—for example, regarding the specific hip mobility requirements of a soccer goalkeeper—you must do the phenomenological work yourself. Analyze video footage, observe extreme joint angles during play, and look at comparative sports (e.g., ice hockey goalies) to borrow and adapt successful training regimens.
 
+```{=html}
 <!--#
 
 ## Goal setting
@@ -73,4 +73,4 @@ Evaluating Interventions: Meta-Analyses and Effect Sizes To set realistic outcom
 When looking at a Forest Plot, pay attention to the 95% Confidence Interval (CI) alongside the point estimate. The CI represents the range of uncertainty due to random sampling variation.
 
 Finally, a critical caveat regarding individual adaptations: When a study shows an average effect size, this does not mean every participant experienced that exact improvement. Some appear to improve drastically, while others stagnate or decrease. However, we cannot immediately label individuals as "non-responders." Fluctuations in pre- and post-testing can often be entirely explained by the Typical Error of Measurement (TEM) inherent to the test, daily biological noise, or transient fatigue. Unless an individual's change exceeds the TE, we cannot confidently state that a true physiological adaptation—or lack thereof—occurred. -->
-
+```
