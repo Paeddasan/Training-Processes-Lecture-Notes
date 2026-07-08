@@ -4,13 +4,13 @@ project:
 
 book:
   title: "Training Processes"
-  subtitle: "Lecture Notes"
-  page-footer: "2026, Peter Raidl" 
   sidebar:
     tools:
       - icon: house-fill
         text: embodymate
         href: "/"
+  subtitle: "Lecture Notes"
+  page-footer: "2026, Peter Raidl" 
   author: 
    - name: "Peter Raidl"
    - id: "pr"
