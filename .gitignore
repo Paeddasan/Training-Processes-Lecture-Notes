@@ -1,2 +1,5 @@
 /_book/
 /.quarto/
+.Rproj.user
+
+**/*.quarto_ipynb
