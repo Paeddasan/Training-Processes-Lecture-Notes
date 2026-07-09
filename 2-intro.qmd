@@ -1,4 +1,4 @@
-```{r}
+```{r, echo = FALSE}
 library(tidyr)
 library(dplyr)
 library(readxl)
@@ -8,7 +8,7 @@ library(kableExtra)
 
 # Introduction
 
-This chapter is relevant for students in my course. If you are not currently enrolled, you can skip this chapter and directly jump to the chapter on the training process [@sec-2-trainingprocess].
+This chapter is relevant for students in my course. If you are not currently enrolled, you can skip this chapter and directly jump to the chapter on the training process [@sec-trainingprocess].
 
 ## Curriculum
 
