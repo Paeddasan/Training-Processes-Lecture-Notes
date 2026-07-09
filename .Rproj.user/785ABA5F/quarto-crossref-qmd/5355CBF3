@@ -1,0 +1,39 @@
+{
+    "entries": [
+        {
+            "file": "2-intro.qmd",
+            "type": "tbl",
+            "id": "points",
+            "suffix": "",
+            "title": "assignment points"
+        },
+        {
+            "file": "2-intro.qmd",
+            "type": "tbl",
+            "id": "timetable",
+            "suffix": "",
+            "title": "timetable of the course"
+        },
+        {
+            "file": "2-intro.qmd",
+            "type": "tbl",
+            "id": "grades",
+            "suffix": "",
+            "title": "grading of the course"
+        },
+        {
+            "file": "2-intro.qmd",
+            "type": "fig",
+            "id": "dashboard",
+            "suffix": "",
+            "title": "Monitoring Dashboard version 0.1"
+        },
+        {
+            "file": "2-intro.qmd",
+            "type": "fig",
+            "id": "venn_hats",
+            "suffix": "",
+            "title": "The hats of the training scientist - Venn diagram"
+        }
+    ]
+}

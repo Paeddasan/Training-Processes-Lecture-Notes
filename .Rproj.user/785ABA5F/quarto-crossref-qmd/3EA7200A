@@ -1,0 +1,25 @@
+{
+    "entries": [
+        {
+            "file": "8-Monitoring.qmd",
+            "type": "fig",
+            "id": "loadmonitoring",
+            "suffix": "",
+            "title": "Load monitoring presented in Vanrenterghem et al., 2017, p 3"
+        },
+        {
+            "file": "8-Monitoring.qmd",
+            "type": "fig",
+            "id": "monitoring_domains",
+            "suffix": "",
+            "title": "Monitoring domains with example variables presented in Rebelo et al., 2026, p. 8"
+        },
+        {
+            "file": "8-Monitoring.qmd",
+            "type": "sec",
+            "id": "interoception",
+            "suffix": "",
+            "title": "Improving internal feedback"
+        }
+    ]
+}
